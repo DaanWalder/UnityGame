@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: a5766201167c1704aa539869497fb1ef
+timeCreated: 1520962929
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BlackDog
+    100002: Body_Head
+    100004: Body_jaw
+    100006: Body_jawEnd
+    100008: Body_Leftarm
+    100010: Body_Leftelbow
+    100012: Body_Leftforearm
+    100014: Body_Leftfronthoof
+    100016: Body_Leftfronthoofbot
+    100018: Body_Leftknee
+    100020: Body_Leftrearhoof
+    100022: Body_Leftrearhoofbot
+    100024: Body_Leftshin
+    100026: Body_LeftShoulder
+    100028: Body_leftthigh
+    100030: Body_Neck
+    100032: Body_Rightarm
+    100034: Body_Rightelbow
+    100036: Body_Rightforearm
+    100038: Body_Rightfronthoof
+    100040: Body_Rightfronthoofbot
+    100042: Body_Rightknee
+    100044: Body_Rightrearhoof
+    100046: Body_Rightrearhoofbot
+    100048: Body_Rightshin
+    100050: Body_Rightshoulder
+    100052: Body_Rightthigh
+    100054: body_root
+    100056: Body_Spine1
+    100058: Body_Spine2
+    100060: Body_Spine3
+    100062: body_tail_01
+    100064: body_tail_02
+    100066: body_tail_03
+    100068: body_tail_04
+    100070: body_tail_05
+    100072: Body_tail_06
+    100074: Body_Tail_end
+    100076: Body_tongue1
+    100078: Body_tongue2
+    100080: Body_tongue3
+    100082: Body_tongue4
+    100084: Cinema4D_Editor
+    100086: //RootNode
+    400000: BlackDog
+    400002: Body_Head
+    400004: Body_jaw
+    400006: Body_jawEnd
+    400008: Body_Leftarm
+    400010: Body_Leftelbow
+    400012: Body_Leftforearm
+    400014: Body_Leftfronthoof
+    400016: Body_Leftfronthoofbot
+    400018: Body_Leftknee
+    400020: Body_Leftrearhoof
+    400022: Body_Leftrearhoofbot
+    400024: Body_Leftshin
+    400026: Body_LeftShoulder
+    400028: Body_leftthigh
+    400030: Body_Neck
+    400032: Body_Rightarm
+    400034: Body_Rightelbow
+    400036: Body_Rightforearm
+    400038: Body_Rightfronthoof
+    400040: Body_Rightfronthoofbot
+    400042: Body_Rightknee
+    400044: Body_Rightrearhoof
+    400046: Body_Rightrearhoofbot
+    400048: Body_Rightshin
+    400050: Body_Rightshoulder
+    400052: Body_Rightthigh
+    400054: body_root
+    400056: Body_Spine1
+    400058: Body_Spine2
+    400060: Body_Spine3
+    400062: body_tail_01
+    400064: body_tail_02
+    400066: body_tail_03
+    400068: body_tail_04
+    400070: body_tail_05
+    400072: Body_tail_06
+    400074: Body_Tail_end
+    400076: Body_tongue1
+    400078: Body_tongue2
+    400080: Body_tongue3
+    400082: Body_tongue4
+    400084: Cinema4D_Editor
+    400086: //RootNode
+    2100000: material_0
+    2100002: material_1
+    4300000: BlackDog
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    13700000: BlackDog
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
