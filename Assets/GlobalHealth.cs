@@ -12,9 +12,9 @@ public class GlobalHealth : MonoBehaviour {
 
 	void Update(){
 		InternalHealth = PlayerHealth;
-		HealthDisplay.GetComponent<Text>().text = PlayerHealth + "%";
+		HealthDisplay.GetComponent<Text>().text = PlayerHealth + " ";
 		if (PlayerHealth == 0) {
-			SceneManager.LoadScene (1);
+			SceneManager.LoadScene (2);
 		}
 	}
 }
